@@ -54,7 +54,7 @@
   <br />
   <br />
   <br />
-  <a href="https://github.com/navarropy/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/navarropy/github-readme-stats"><img alt="Navrropy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Navarropy&show_icons=true&count_private=true&hide=" /></a>
 </p>
 -----
 Credits: [DenverCoder1](https://github.com/DenverCoder1)
