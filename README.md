@@ -5,7 +5,7 @@
 ## 📖 About me
 
 * 💻 I'm a front-end web developer
-* 🌐 You can see some of my projects on [my portfolio](https://navarropy-portfolio.netlify.app/)
+* 🌐 You can see some of my projects on [[my portfolio](https://navarropy-portfolio.netlify.app/)](https://leonavarro.surge.sh/)
 
 ## 🔥 My contribution streak
 
